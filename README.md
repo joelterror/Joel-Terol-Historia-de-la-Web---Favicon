@@ -8,6 +8,6 @@ La historia del favicon (una abreviatura de "favorite icon"), un favicon es una 
 
 El concepto de favicon fue introducido por primera vez por Microsoft con el lanzamiento de Internet Explorer 5 en 1999.
 Con el tiempo, otros navegadores como Mozilla Firefox y Opera comenzaron a adoptar el soporte para favicons. 
-A medida que más navegadores añadieron soporte, el favicon comenzó a aparecer no solo en los marcadores, si no también en la barra de direcciones del navegador, lo que ayudaba a identificar mejor el sitio mientras se navegaba.
+
 
 ![]![FaviconWikipedia](https://github.com/user-attachments/assets/3d5d8dba-dc44-45ad-9b09-548084f6b212)
